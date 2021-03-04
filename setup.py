@@ -16,7 +16,7 @@ NAME = 'gaode'
 DESCRIPTION = 'Gaode Python SDK.'
 URL = 'https://github.com/iamsk/gaode'
 EMAIL = 'iamsk.info@gmail.com'
-AUTHOR = 'IAMSK'
+AUTHOR = 'Bin'
 REQUIRES_PYTHON = '>=3.6.0'
 VERSION = '0.1.0'
 
